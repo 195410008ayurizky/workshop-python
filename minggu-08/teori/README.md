@@ -490,7 +490,7 @@ Modul decimal menawarkan Decimal tipe data untuk aritmatika pecahan desimal. Dib
 * aplikasi keuangan dan penggunaan lainnya yang membutuhkan representasi desimal yang tepat,kontrol atas presisi,
 * kontrol atas pembulatan untuk memenuhi persyaratan sah legal atau peraturan,
 * pelacakan tempat desimal yang signifikan, atau
-*aplikasi tempat pengguna mengharapkan hasil agar sesuai dengan perhitungan yang dilakukan dengan tangan.
+* aplikasi tempat pengguna mengharapkan hasil agar sesuai dengan perhitungan yang dilakukan dengan tangan.
 
 Misalnya, menghitung pajak 5% pada biaya telepon 70 sen memberikan hasil berbeda dalam pecahan floating point desimal dan pecahan floating point biner. Perbedaannya menjadi signifikan jika hasilnya dibulatkan ke sen terdekat:
 ```python
